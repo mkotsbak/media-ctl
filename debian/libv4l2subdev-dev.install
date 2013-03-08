@@ -1,4 +1,4 @@
-usr/include/mediactl/subdev.h
+usr/include/mediactl/v4l2subdev.h
 usr/lib/libv4l2subdev.a
 usr/lib/libv4l2subdev.so
 usr/lib/libv4l2subdev.la

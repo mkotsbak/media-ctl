@@ -1,4 +1,4 @@
-usr/include/mediactl/media.h
+usr/include/mediactl/mediactl.h
 usr/lib/libmediactl.a
 usr/lib/libmediactl.so
 usr/lib/libmediactl.la
